@@ -14,9 +14,9 @@ cout<<"enter your Vote\n";
 cin >>Votes;
 
 cout<<"*******************\n";
-cout<<"[1] Alice"<<"\n";          
-cout<<"[2] Bob"   <<"\n";          
-cout<<"[3] Charlie"    <<"\n";          
+cout<<"[1] Alice"  <<"\n";          
+cout<<"[2] Bob"    <<"\n";          
+cout<<"[3] Charlie"<<"\n";          
 cout<<"*******************\n";
 
 
