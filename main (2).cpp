@@ -8,15 +8,17 @@ int Alice=0 , Bob=0 , Charlie=0;
 int num_person , Votes , i_1 , i_2 ;
 string person[4];
 
+cout<<"enter your num_person\n"; 
+cin >>num_person;
+cout<<"enter your Vote\n"; 
+cin >>Votes;
+
 cout<<"*******************\n";
 cout<<"[1] Alice"<<"\n";          
 cout<<"[2] Bob"   <<"\n";          
 cout<<"[3] Charlie"    <<"\n";          
 cout<<"*******************\n";
-cout<<"enter your num_person\n"; 
-cin >>num_person;
-cout<<"enter your Vote\n"; 
-cin >>Votes;
+
 
 for(int i_1=1 ; i_1<=num_person ; i_1++)
 {
